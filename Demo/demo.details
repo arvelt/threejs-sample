@@ -1,2 +1,8 @@
-resources:
- - https://rawgithub.com/mrdoob/three/r54/examples/js/controls/OrbitControls.js
+  ---
+ name:
+ description:
+ authors:
+ resources:
+   - https://rawgithub.com/mrdoob/three.js/r54/examples/js/controls/OrbitControls.js
+ normalize_css: no
+ ...

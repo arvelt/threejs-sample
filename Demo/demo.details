@@ -1,0 +1,2 @@
+ resources:
+   - https://rawgithub.com/mrdoob/three.js/r54/examples/js/controls/OrbitControls.js
